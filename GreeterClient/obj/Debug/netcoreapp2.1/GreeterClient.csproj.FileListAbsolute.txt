@@ -1,0 +1,60 @@
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.deps.json
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.json
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.dev.json
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.dll
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.pdb
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.dll
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.pdb
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csprojAssemblyReference.cache
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CoreCompileInputs.cache
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfoInputs.cache
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfo.cs
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CopyComplete
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.dll
+D:\Other\grpc\examples\csharp\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.pdb
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.deps.json
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.json
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.dev.json
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.dll
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.pdb
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.dll
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\Normalizer.dll
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\bin\Debug\netcoreapp2.1\Normalizer.pdb
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CopyComplete
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.dll
+C:\Users\Gerty\Desktop\Helloworld\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.deps.json
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.json
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.dev.json
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\Normalizer.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\bin\Debug\netcoreapp2.1\Normalizer.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CopyComplete
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.pdb
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.deps.json
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.json
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.runtimeconfig.dev.json
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.dll
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\GreeterClient.pdb
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.dll
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\bin\Debug\netcoreapp2.1\Greeter.pdb
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.csproj.CopyComplete
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.dll
+C:\Users\Gerty\Desktop\TRRP4S\GreeterClient\obj\Debug\netcoreapp2.1\GreeterClient.pdb

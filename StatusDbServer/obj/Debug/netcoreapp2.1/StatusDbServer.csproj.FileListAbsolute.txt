@@ -1,0 +1,11 @@
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\bin\Debug\netcoreapp2.1\StatusDbServer.deps.json
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\bin\Debug\netcoreapp2.1\StatusDbServer.runtimeconfig.json
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\bin\Debug\netcoreapp2.1\StatusDbServer.runtimeconfig.dev.json
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\bin\Debug\netcoreapp2.1\StatusDbServer.dll
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\obj\Debug\netcoreapp2.1\StatusDbServer.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\obj\Debug\netcoreapp2.1\StatusDbServer.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\obj\Debug\netcoreapp2.1\StatusDbServer.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\obj\Debug\netcoreapp2.1\StatusDbServer.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\bin\Debug\netcoreapp2.1\StatusDbServer.pdb
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\obj\Debug\netcoreapp2.1\StatusDbServer.dll
+C:\Users\Gerty\Desktop\TRRP4S\StatusDbServer\obj\Debug\netcoreapp2.1\StatusDbServer.pdb

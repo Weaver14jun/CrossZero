@@ -1,0 +1,36 @@
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.deps.json
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.dll
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.pdb
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.csprojAssemblyReference.cache
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.csproj.CoreCompileInputs.cache
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfoInputs.cache
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfo.cs
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.dll
+D:\Other\grpc\examples\csharp\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.deps.json
+C:\Users\Gerty\Desktop\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.dll
+C:\Users\Gerty\Desktop\Helloworld\Greeter\bin\Debug\netstandard1.5\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.dll
+C:\Users\Gerty\Desktop\Helloworld\Greeter\obj\Debug\netstandard1.5\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\obj\Debug\netstandard1.5\Greeter.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\obj\Debug\netstandard1.5\Greeter.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\obj\Debug\netstandard1.5\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\bin\Debug\netstandard1.5\Greeter.deps.json
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\bin\Debug\netstandard1.5\Greeter.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\bin\Debug\netstandard1.5\Greeter.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\obj\Debug\netstandard1.5\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\bin\Debug\netstandard1.5\Greeter.deps.json
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\bin\Debug\netstandard1.5\Greeter.dll
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\bin\Debug\netstandard1.5\Greeter.pdb
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\obj\Debug\netstandard1.5\Greeter.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\obj\Debug\netstandard1.5\Greeter.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\obj\Debug\netstandard1.5\Greeter.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\obj\Debug\netstandard1.5\Greeter.dll
+C:\Users\Gerty\Desktop\TRRP4S\Greeter\obj\Debug\netstandard1.5\Greeter.pdb

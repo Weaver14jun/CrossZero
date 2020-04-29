@@ -1,0 +1,22 @@
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.deps.json
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.runtimeconfig.json
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.runtimeconfig.dev.json
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.pdb
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.dll
+C:\Users\Gerty\Desktop\Helloworld — копия\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.pdb
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.deps.json
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.runtimeconfig.json
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.runtimeconfig.dev.json
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.dll
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\bin\Debug\netcoreapp2.1\GreeterSocketServer.pdb
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.csprojAssemblyReference.cache
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.AssemblyInfoInputs.cache
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.AssemblyInfo.cs
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.dll
+C:\Users\Gerty\Desktop\TRRP4S\GreeterSocketServer\obj\Debug\netcoreapp2.1\GreeterSocketServer.pdb

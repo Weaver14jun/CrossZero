@@ -1,0 +1,2 @@
+obj\Release\netstandard1.5/Helloworld2.cs \
+obj\Release\netstandard1.5/Helloworld2Grpc.cs: helloworld2.proto
