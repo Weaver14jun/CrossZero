@@ -30,7 +30,7 @@ namespace GreeterClient
         {
             const int port = 8080;
             const int socketPort = 8888;
-            string address = "127.0.0.1";
+            string address = "109.120.151.33";
             int roomNumber = 0;
             TcpClient socketClient = null;
             NetworkStream stream = null;
@@ -44,7 +44,8 @@ namespace GreeterClient
             int serverCount = 1;
             foreach(var item in listSL)
             {
-                Console.WriteLine($"{serverCount}){item}");
+                if(item != "")
+                    Console.WriteLine($"{serverCount}){item}");
 
             }
             var ans = Console.ReadLine();
